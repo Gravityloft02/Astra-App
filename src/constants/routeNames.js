@@ -1,0 +1,14 @@
+export const CONTACT = 'Contacts';
+export const CONTACT_DETAIL = 'Contact Detail';
+export const SETTINGS = 'Settings';
+export const LOGIN = 'Login';
+export const LOGOUT = 'Logout';
+export const REGISTER = 'Register';
+export const CONTACT_LIST = 'Contacts';
+export const DASHBOARDD = 'DASHBOARD';
+export const ATTENDANCE = 'Attendance';
+export const ANNOUNCEMENTS = 'CIRCULARS';
+export const ANNOUNCEMENT_DETAILS = 'ANNOUNCEMENTS';
+export const SCORECARD = 'SCORECARD';
+export const PAYFEES = 'PAY FEE';
+export const CHANGE_PASSWORD = 'Change password';

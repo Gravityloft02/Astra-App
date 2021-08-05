@@ -1,0 +1,39 @@
+﻿{
+  "project_info": {
+    "project_number": "1090113723431",
+    "project_id": "astra-66d2d",
+    "storage_bucket": "astra-66d2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090113723431:android:93cefc288180f007fb8202",
+        "android_client_info": {
+          "package_name": "com.astra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090113723431-mqbkquth9f918mmtn0ko8pfmnnvm9qdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGZrUWJsJxgsD1JGWo7p1QM-f1TsyRVGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090113723431-mqbkquth9f918mmtn0ko8pfmnnvm9qdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
